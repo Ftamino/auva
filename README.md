@@ -1,12 +1,15 @@
-<h2 style="text-align: center;"><strong>Advanced Upgradable Vannilla Armor (AUVA)</strong></h2>
-<p>&nbsp;</p>
-<h5>Description:</h5>
+## Advanced Upgradable Vannilla Armor (AUVA)
+
+### Description:
 <p>This mod adds a armor verry similar to the vannilla netherite armor but its harder to craft and upgradable. It also adds a ore. (see below)</p>
-<p>&nbsp;</p>
-<h5>Armor</h5>
+
+### Armor
 <p>Crafting:&nbsp;</p>
 <ul>
-<li>Craft some Taaffite Chainmails<img src="https://i.imgur.com/B9EkDZf.png" alt="Crafting" width="428" height="203" /></li>
+<li>Craft some Taaffite Chainmails</li>
+</ul>
+<p><img src="https://i.imgur.com/B9EkDZf.png" alt="Crafting" width="428" height="203" /></p>
+<ul>
 <li>Upgrade vannilla Netherrite Armor with the Taaffite Chainmails in a Smithing Table</li>
 </ul>
 <p><img src="https://i.imgur.com/2802D4m.png" alt="crafting" width="424" height="187" /></p>
@@ -19,7 +22,8 @@
 <li>There you go. You now have a good armor. To upgrade it look below</li>
 </ul>
 <h5>&nbsp;</h5>
-<h5>Armor Upgrades (Runes)</h5>
+
+### Armor Upgrades (Runes)
 <ul>
 <li>To craft the upgrade runes. Craft the Rune Table.</li>
 </ul>
@@ -35,11 +39,12 @@
 <p><img src="https://i.imgur.com/WMrNNgR.png" alt="" width="486" height="335" /></p>
 <p>You can add those runes by pressing . if you ware the armor and add them there.</p>
 <h5>&nbsp;</h5>
-<h5>Taaffite</h5>
+
+### Taaffite
 <p>Really rear ore. It spawns between y=1 and y=3.&nbsp;</p>
 <p>&nbsp;</p>
 <p>The mcretor projekt of the mod is on&nbsp;<a href="https://github.com/Ftamino/auva-workspace">Github</a></p>
-<p>My&nbsp;<a href="https://ftamino.github.io">website</a></p>
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-upgradable-vannilla-armor-auva">The project on CurseForge</a></p>
 <p>My&nbsp;<a href="https://discord.gg/ysxF6S587W">discord server</a></p>
 <h5>&nbsp;</h5>
 <p>&nbsp;</p>
